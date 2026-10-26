@@ -60,17 +60,17 @@ I have deep hands-on expertise in building **production-grade CI/CD pipelines, I
   <img src="https://skillicons.dev/icons?i=azure,terraform,docker,githubactions,github,git,linux,powershell,bash&perline=10" />
 </p>
 
-## 🚀 Key Engineering Milestones & Impact
+## 🌱 Currently Exploring
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
 <br><br>
 
-- ⏱️ **Release Cycle Velocity:** Cut average release cycle from **3 days ➔ 4 hours** using Azure Pipelines and GitHub Actions (~80% reduction).
-- ⚡ **Environment Spin-up:** Reduced infrastructure provisioning time from **2 days ➔ under 2 hours** with reusable modular Terraform across 3 project teams.
-- 🛡️ **Zero Rollback Deployments:** Supported **50+ production deployments with 0 rollbacks**, reducing manual intervention by **65%**.
-- 📉 **Pipeline Reliability:** Overhauled build workflows with dev & QA squads, cutting failure rate from **~30% to under 8%** in 3 months.
-- 💰 **FinOps Cost Optimization:** Implemented **OpenCost** across Azure subscriptions to identify idle/oversized assets and drive annual cost reduction.
-- 👥 **Team Mentorship:** Mentored 5 cloud engineers on Terraform and DevSecOps practices, reducing support tickets by **60%**.
+- 🤖 AIOps for intelligent DevOps automation
+- 🧠 MLOps workflows and ML platform engineering
+- 🦙 Large Language Models (LLMs)
+- 🔗 Model Context Protocol (MCP)
+- 📚 Retrieval Augmented Generation (RAG)
+- ☁️ AI-driven Cloud Operations
 
 # 🎯 Professional Highlights
 
@@ -82,12 +82,6 @@ I have deep hands-on expertise in building **production-grade CI/CD pipelines, I
 - 🌐 **Hub-Spoke & Zero-Public-Exposure Designs** (Private Endpoints, Key Vault, Private DNS)
 - 📊 **Enterprise Monitoring & FinOps** (Azure Monitor, Log Analytics, OpenCost)
 - 🛡️ **Disaster Recovery & High Availability Planning** (ASR, Azure Backup, RTO/RPO)
-
-# 📂 Featured Repositories
-
-- 🚀 **[azure-landing-zone](https://github.com/premsbagri/azure-landing-zone)** - Enterprise-grade Azure Landing Zone built with Terraform following Microsoft Cloud Adoption Framework (CAF) best practices.
-- ⚡ **[azure-infrastructure-platform](https://github.com/premsbagri/azure-infrastructure-platform)** - Azure infrastructure provisioning and automation using Terraform and Azure DevOps CI/CD pipelines.
-- 🛡️ **[Azure_resource_deployment](https://github.com/premsbagri/Azure_resource_deployment)** - Automated deployment of Resource Groups, VNets, Subnets, Public IPs, Network Interfaces & Virtual Machines with security controls.
 
 # 📬 Connect With Me
 
